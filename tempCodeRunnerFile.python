@@ -1,0 +1,5 @@
+
+import math
+
+x=math.floor(88.2)
+print(x)
